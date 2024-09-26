@@ -1,0 +1,6 @@
+*.db
+*.pth
+/Flickr
+/__pycache__
+*.ipynb
+/uploads/*
