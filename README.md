@@ -12,3 +12,9 @@ Key Features
 Pretrained Models: Both ResNet-50 and GPT-2 are pretrained on large datasets to leverage transfer learning.
 Image-to-Text Translation: The model takes an image as input and outputs a descriptive caption.
 Web Interface: Users can upload an image through a simple frontend, and the backend generates and displays captions. 
+
+Training:
+Train the model on the Flickr dataset for desired number of epochs(Took around 4 hrs of training on NVIDIA 4070 Ti 12G for 5 epochs with lr=1e-4)
+
+Running Web Application:
+Once the training is completed, check whether the caption is being generated or not by running the main.py file. Run the app.py file and go to localhost server to get the web interface for image captioning. 
