@@ -5,4 +5,4 @@ pytorch-cuda=12.1
 torchvision 
 pandas
 transformers
-
+flask
