@@ -25,3 +25,6 @@ Try it yourself:
 3. Download the pt weights: https://drive.google.com/file/d/1uANPY6WZusGcFPumj-jZgl3UP0IhLW9-/view?usp=sharing
 4. flask run --host=0.0.0.0 --port=5000
 5. Go to the IP address and upload images(.jpg/.png formats supported) to generate captions
+
+Web Interface:
+![image](https://github.com/user-attachments/assets/aea7b0fb-2f93-46ca-8ec8-d78c357d9eac)
