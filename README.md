@@ -18,3 +18,10 @@ Train the model on the Flickr dataset for desired number of epochs(Took around 4
 
 Running Web Application:
 Once the training is completed, check whether the caption is being generated or not by running the main.py file. Run the app.py file and go to localhost server to get the web interface for image captioning. 
+
+Try it yourself:
+1. git clone https://github.com/git-khandelwal/CNN-to-GPT2
+2. pip install -r requirements.txt
+3. Download the pt weights: https://drive.google.com/file/d/1uANPY6WZusGcFPumj-jZgl3UP0IhLW9-/view?usp=sharing
+4. flask run --host=0.0.0.0 --port=5000
+5. Go to the IP address and upload images(.jpg/.png formats supported) to generate captions
